@@ -5,3 +5,4 @@ RusEFI's implementation of the H-bridge requires 3 pins, PWM, DIR, and EN. This 
 ![image](https://github.com/user-attachments/assets/18714690-9a89-40e7-ba40-8662f8ed9313)
 [source](https://www.ovaga.com/blog/transistor/bts7960-motor-driver-datasheet-and-circuit-diagram)
 # Connection
+![image](https://github.com/user-attachments/assets/59979261-c093-48c0-877c-a535a444ddd9)
