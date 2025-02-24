@@ -2436,7 +2436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+		(property "Footprint" "1KicadLib:1x05_wire2board"
 			(at 26.035 97.79 0)
 			(effects
 				(font
