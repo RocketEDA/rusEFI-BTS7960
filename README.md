@@ -11,6 +11,5 @@ RusEFI's implementation of the H-bridge requires 3 pins, PWM, DIR, and EN. This 
 
 The board stacks on as pictured. DIR/DIS/PWM correlate to rusEFI's 3/2 wire pins originally intended for the TLE9201SG. The DIS pin connection is not needed for 2 wire operation.
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/59979261-c093-48c0-877c-a535a444ddd9" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b0ed6dca-13c6-4856-b299-fb4f7ce63874" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/40c949d2-6db3-43ea-9580-4dfee241a7b8" />
